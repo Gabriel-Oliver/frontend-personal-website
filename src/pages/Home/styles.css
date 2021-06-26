@@ -1,0 +1,10 @@
+:root {
+    --color-brown: #d6c5ad;
+    --color-yellow: #f4ece2;
+    --color-grey: #e3e6e4;
+    --color-soft-blue: #bde2e4;
+    --color-blue: #6bd3e0;
+  }
+body{
+    background-color: var(--color-blue);
+}
