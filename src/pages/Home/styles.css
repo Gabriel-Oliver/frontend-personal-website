@@ -6,5 +6,5 @@
     --color-blue: #6bd3e0;
   }
 body{
-    background-color: var(--color-blue);
+    background-color: var(--color-yellow);
 }
